@@ -1,6 +1,6 @@
 # Vinotecture — SEO & 50-Sale Launch Plan
 
-**Goal:** sell 50 Cross 72 racks in ~8 weeks (pre-Christmas → late summer).
+**Goal:** sell 50 Gallery 72 racks in ~8 weeks (pre-Christmas → late summer).
 **Reality check:** a new domain rarely ranks on Google in its first 2–3 months. SEO is the long game; the first 50 sales will mostly come from paid search, Marketplace, social and trade outreach. Both run in parallel from day one.
 
 ---

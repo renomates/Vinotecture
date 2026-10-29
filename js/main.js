@@ -4,8 +4,8 @@
 const CONFIG = {
   // Stripe Payment Links (Stripe Dashboard → Payment Links → New). Paste the https://buy.stripe.com/... URLs.
   checkout: {
-    single: "STRIPE_LINK_SINGLE",   // The Cross 72 × 1 — A$649
-    pair:   "STRIPE_LINK_PAIR"      // The Cross 72 × 2 — A$1,199
+    single: "STRIPE_LINK_SINGLE",   // The Gallery 72 × 1 — A$649
+    pair:   "STRIPE_LINK_PAIR"      // The Gallery 72 × 2 — A$1,199
   },
   // Update by hand as you sell (or leave at 50 until you have real numbers — never fake scarcity).
   racksLeft: 50,
@@ -21,7 +21,7 @@ document.querySelectorAll("[data-buy]").forEach(btn => {
     if (url && url.startsWith("https://")) {
       window.location.href = url;
     } else {
-      const subject = encodeURIComponent(`Order: Cross 72 (${key})`);
+      const subject = encodeURIComponent(`Order: Gallery 72 (${key})`);
       window.location.href = `mailto:${CONFIG.contactEmail}?subject=${subject}`;
     }
   });
@@ -94,3 +94,11 @@ if (form) {
     }
   });
 }
+
+/* ---------- Product photo thumbnails ---------- */
+const heroImg = document.getElementById("hero-img");
+document.querySelectorAll(".thumb").forEach(t => t.addEventListener("click", () => {
+  heroImg.src = t.dataset.src;
+  heroImg.alt = t.dataset.alt;
+  document.querySelectorAll(".thumb").forEach(o => o.setAttribute("aria-pressed", o === t));
+}));

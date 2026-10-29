@@ -203,3 +203,14 @@ footer a:hover{color:var(--cream)}
   body{padding-bottom:72px}
   .foot{grid-template-columns:1fr}
 }
+
+/* Product photos (white-background shots sit on a light card) */
+.hero-art .frame{background:#fff;padding:12px;overflow:hidden}
+.hero-art .frame img{width:100%;height:auto;aspect-ratio:1/1;object-fit:contain}
+.thumbs{display:flex;gap:10px;margin-top:12px}
+.thumb{flex:1;background:#fff;border:2px solid transparent;border-radius:12px;padding:4px;cursor:pointer;opacity:.85;transition:opacity .2s,border-color .2s}
+.thumb:hover{opacity:1}
+.thumb[aria-pressed="true"]{border-color:var(--timber);opacity:1}
+.thumb img{aspect-ratio:1/1;object-fit:contain;width:100%;height:auto}
+.badge-72{bottom:auto;top:24px}
+.dims img{background:#fff;border-radius:22px;width:100%;height:auto}
