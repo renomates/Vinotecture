@@ -1,6 +1,6 @@
 # Vinotecture — SEO & 50-Sale Launch Plan
 
-**Goal:** sell 50 Gallery 72 racks in ~8 weeks (pre-Christmas → late summer).
+**Goal:** sell 50 Gallery 100 racks in ~8 weeks (pre-Christmas → late summer).
 **Reality check:** a new domain rarely ranks on Google in its first 2–3 months. SEO is the long game; the first 50 sales will mostly come from paid search, Marketplace, social and trade outreach. Both run in parallel from day one.
 
 ---
@@ -9,13 +9,13 @@
 
 | Who | What | Price |
 |---|---|---|
-| Wine Rack Store (winerack-store.com.au) | Same display stand, 72 bottles, 100×100×30 cm, rustic | A$899.99 (listed as **sold out**) |
-| Wine Rack Store via Bunnings / Harvey Norman | 72-bottle "classic" pine + metal | ~A$287–299 |
-| Wine Stash (Costco, Dan Murphy's) | 72-bottle timber lattice rack | ~A$190 at Costco |
-| Kmart marketplace / generic imports | 72-bottle stackable pine/bamboo | A$40–110 |
+| Wine Rack Store (winerack-store.com.au) | Wine cabinet display stand (listed as 72 bottles), rustic | A$899.99 (listed as **sold out**) |
+| Wine Rack Store via Bunnings / Harvey Norman | 100-bottle "classic" pine + metal | ~A$287–299 |
+| Wine Stash (Costco, Dan Murphy's) | 100-bottle timber lattice rack | ~A$190 at Costco |
+| Kmart marketplace / generic imports | 100-bottle stackable pine/bamboo | A$40–110 |
 | Cellar Smart (Bunnings), Modularack (Temple & Webster) | Australian modular cellar systems | A$35–65 per module + |
 
-**Positioning:** we're not the cheapest 72-bottle rack — we're the *display cabinet* (the X design) at ~A$250 under the main competitor, in stock now. Sell the look, not the bottle count.
+**Positioning:** we're not the cheapest 100-bottle rack — we're the *display cabinet* (the X design) at ~A$250 under the main competitor, in stock now. Sell the look, not the bottle count.
 
 ---
 
@@ -24,7 +24,7 @@
 Validate volumes in Google Keyword Planner (set to Australia) before spending.
 
 **Money keywords (product page `/`)**
-- wine rack cabinet · wooden wine rack cabinet · 72 bottle wine rack · wine display cabinet · timber wine rack · freestanding wine rack · large wine rack Australia · wine rack display stand
+- 100 bottle wine rack · wine rack cabinet · wooden wine rack cabinet · large wine rack · wine display cabinet · timber wine rack · freestanding wine rack · large wine rack Australia · wine rack display stand
 
 **Builder / trade (`/#trade` → later its own `/trade` page)**
 - wine cellar racking · modular wine racking · wine cellar fit out · butler's pantry wine rack · wine wall ideas
@@ -46,7 +46,7 @@ Ownership rule: one main keyword per page, no two pages chasing the same term.
 - Static site = very fast Core Web Vitals; keep images WebP < 200 KB with `width`/`height`
 - Descriptive alt text; internal links from every article to the product
 
-**To do once live:** real product photos with keyword file names (`72-bottle-timber-wine-rack-cabinet.webp`); add `aggregateRating` to the schema only once you have genuine reviews.
+**To do once live:** real product photos with keyword file names (`100-bottle-timber-wine-rack-display.webp`); add `aggregateRating` to the schema only once you have genuine reviews.
 
 ---
 
@@ -73,7 +73,7 @@ Each post: 800–1,400 words, one table or checklist, 2+ photos, links to the pr
 - **Google Business Profile** (Melbourne, service-area business) — photos, product listing, ask every buyer for a review.
 - **Google Merchant Center** — free product listings in Google Shopping; the JSON-LD already supplies the data.
 - **Marketplace listings that link back:** Bunnings Marketplace, Amazon AU, eBay, Temple & Webster supplier programme.
-- **Links/PR:** pitch "a 72-bottle wine wall for under A$650" to The Interiors Addict, Houzz AU, Domain/realestate.com.au lifestyle sections, local wine bloggers. Send a free rack to 2–3 interior stylists in exchange for photos.
+- **Links/PR:** pitch "a 100-bottle wine wall for under A$650" to The Interiors Addict, Houzz AU, Domain/realestate.com.au lifestyle sections, local wine bloggers. Send a free rack to 2–3 interior stylists in exchange for photos.
 - **Directories:** Houzz pro profile, Hipages, True Local, Yelp AU.
 
 ---

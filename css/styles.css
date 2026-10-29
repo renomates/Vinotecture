@@ -56,9 +56,9 @@ section{padding:96px 0}
 .trust span::before{content:"✓ ";color:var(--timber)}
 .hero-art{position:relative}
 .hero-art .frame{background:linear-gradient(160deg,var(--ink-3),var(--ink-2));border:1px solid var(--line);border-radius:28px;padding:36px}
-.badge-72{position:absolute;left:-18px;bottom:28px;background:var(--cream);color:var(--ink);border-radius:18px;padding:14px 18px;box-shadow:0 20px 40px rgba(0,0,0,.4)}
-.badge-72 b{font-family:var(--serif);font-size:2rem;display:block;line-height:1}
-.badge-72 small{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase}
+.badge-cap{position:absolute;left:-18px;bottom:28px;background:var(--cream);color:var(--ink);border-radius:18px;padding:14px 18px;box-shadow:0 20px 40px rgba(0,0,0,.4)}
+.badge-cap b{font-family:var(--serif);font-size:2rem;display:block;line-height:1}
+.badge-cap small{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase}
 .stock{display:inline-flex;align-items:center;gap:8px;font-size:.85rem;color:var(--cream-2);margin-top:6px}
 .stock i{width:8px;height:8px;border-radius:50%;background:#5fbf7a;box-shadow:0 0 0 4px rgba(95,191,122,.18)}
 
@@ -198,7 +198,7 @@ footer a:hover{color:var(--cream)}
   .panel,.panel.active{padding:28px}
   .tabs{width:100%;overflow-x:auto}
   .row-2{grid-template-columns:1fr}
-  .badge-72{left:8px}
+  .badge-cap{left:8px}
   .buybar{display:flex}
   body{padding-bottom:72px}
   .foot{grid-template-columns:1fr}
@@ -212,5 +212,5 @@ footer a:hover{color:var(--cream)}
 .thumb:hover{opacity:1}
 .thumb[aria-pressed="true"]{border-color:var(--timber);opacity:1}
 .thumb img{aspect-ratio:1/1;object-fit:contain;width:100%;height:auto}
-.badge-72{bottom:auto;top:24px}
+.badge-cap{bottom:auto;top:24px}
 .dims img{background:#fff;border-radius:22px;width:100%;height:auto}
